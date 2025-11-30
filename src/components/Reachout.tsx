@@ -23,7 +23,7 @@ export default function Reachout({
     twitter: "https://x.com/HegdeAnany49037",
     github: "https://github.com/Ananya-Hegde2001",
     linkedin: "https://www.linkedin.com/in/ananyahegde-/",
-    resume: "https://drive.google.com/drive/folders/1xgkMBbkt3iYbZKAgx1n8LP5YrGT6tEzz",
+    resume: "https://drive.google.com/file/d/19S-XM3e7I0MnE02jupjsxw-sGO2KsqCa/view?usp=sharing",
     mail: "mailto:ananyavhegde2001@gmail.com"
   }
 }: ReachoutProps) {
