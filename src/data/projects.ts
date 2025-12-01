@@ -2,7 +2,7 @@ import { Project } from '@/types/project'
 
 export const projects: Project[] = [
   {
-    id: 'Teacher Job Portal',
+    id: 'Teacher-Job-Portal',
     title: "Teacher Job Portal",
     description: "A modern portal that connects educators with institutions in a simple, friendly way.",
     longDescription: "Teacher Job Portal is a single place to discover academic opportunities and manage the hiring journey. Teachers can search and filter roles, save jobs, set alerts, and apply with a short cover note. Employers can post openings and review applications. Everyone gets a clean, responsive experience with helpful notifications.",
@@ -38,7 +38,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 'JSON Tree Visualizer',
+    id: 'JSON-Tree-Visualizer',
     title: "JSON Tree Visualizer",
     description: "Interactive JSON Tree Visualizer built with React + Vite and React Flow.",
     longDescription: "An interactive tool built with React and React Flow that visualizes JSON data as a navigable tree featuring JSONPath search, validation, and image export capabilities.",
@@ -52,7 +52,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 'School Bus Tracker App',
+    id: 'School-Bus-Tracker-App',
     title: "School Bus Tracker App",
     description: "Developed an Android app using Java, Android Studio, and Firebase for real-time school bus tracking to let parents monitor live location, speed, and ETA.",
     longDescription: "Developed an Android app using Java, Android Studio, and Firebase for real-time school bus GPS tracking, enabling parents to monitor location, speed, and ETA while enhancing student safety and improving school transportation management with fast, reliable performance.",
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 'HR Analytics Employee Retention',
+    id: 'HR-Analytics-Employee-Retention',
     title: "HR Analytics Employee Retention",
     description: "HR Analytics Employee Retention project analyzes employee data to predict retention trends and identify key factors influencing employee turnover using Python.",
     longDescription: "This project aims to analyze employee retention patterns using data-driven insights to help organizations improve workforce stability. The project leverages Python, data visualization tools, and machine learning models to predict employee retention outcomes.",
